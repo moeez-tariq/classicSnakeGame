@@ -32,9 +32,4 @@ This is a simple implementation of the classic Snake game using Processing. The 
 2. Open the SnakeGame.pde file in the Processing environment.
 3. Run the sketch to start the game.
 
-## Acknowledgments
-
-- Snake images: [Insert Image Credits]
-- Fruit images: [Insert Image Credits]
-
 Enjoy playing the Snake Game!
